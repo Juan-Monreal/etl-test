@@ -1,4 +1,4 @@
-﻿País__ESTANDAR,Años__ESTANDAR,Sexo,Área geográfica,value,unit
+﻿country_name,year,sex_identifier,geography,value,unit
 Bolivia (Estado Plurinacional de),2016,Ambos sexos,Nacional,10.6,Años de estudio
 Bolivia (Estado Plurinacional de),2016,Hombres,Nacional,10.6,Años de estudio
 Bolivia (Estado Plurinacional de),2016,Mujeres,Nacional,10.6,Años de estudio

@@ -1,4 +1,4 @@
-Name,Segments,Categories,Incorporation year,Launch year,Ownership type,Incorporation Country,Operational HQ,Number of employees,Cessation date,Cessation of op. reason,Acquisition status,Status
+﻿Name,Segments,Categories,Incorporation year,Launch year,Ownership type,Incorporation Country,Operational HQ,Number of employees,Cessation date,Cessation of op. reason,Acquisition status,Status
  Casava,InsurTech,Digital Brokers or Agents,2016,2021,Private,Nigeria,Nigeria,Nov-50,,,,Active
  Cincel ,"Enterprise Tech Provisioning, Digital Identity","Enterprise Blockchain, API Management, KYC Solutions",2019,2020,Private,Mexico,Mexico,Nov-50,,,,Active
  CrossLend,Enterprise Tech Provisioning,Financial Management & Business Intelligence,2014,2015,Private,Germany,Germany,51-200,,,,Active
@@ -352,7 +352,7 @@ Belvo,Enterprise Tech Provisioning,"API Management, Financial Management & Busin
 BeneFactors,"Digital Lending, RegTech","Invoice Trading, Profiling & Due Diligence",2017,2017,Private,Rwanda,Rwanda,14,,,,Active
 Benevolent,Digital Capital Raising,Donation-Based Crowdfunding,2011,2011,Private,United States,United States,30,,,,Active
 Benfeitoria,Digital Capital Raising,"Donation-Based Crowdfunding, Education and Training",2010,2011,Private,Brazil,Brazil,Nov-50,,,,Active
-BERGFÜRST,Digital Capital Raising,Real Estate Crowdfunding,2011,2011,Private,Germany,Germany,30,,,,Active
+BERGFÃœRST,Digital Capital Raising,Real Estate Crowdfunding,2011,2011,Private,Germany,Germany,30,,,,Active
 Bergson,"InsurTech, Enterprise Tech Provisioning","Comparison Portal, Cloud Computing",2018,2018,Private,Argentina,Argentina,5,,,,Active
 Berry,Digital Lending,Balance Sheet Consumer Lending,,2018,Private,Kenya,Kenya,10-Jan,,,,Active
 Bestow,"InsurTech, Enterprise Tech Provisioning","Digital Brokers or Agents, Customer Management, Claims & Risk Management Solutions, API Management, Financial Management & Business Intelligence, Education and Training",2016,2017,Private,United States,United States,51-200,,,,Active
@@ -484,7 +484,7 @@ BitPesa,"Digital Payments, Cryptoasset Exchange","Money Transfer (Cryptoasset), 
 BitPie,"Digital Custody, Cryptoasset Exchange","Hosted Cryptoasset Wallet, Order-Book",2015,2014,Private,Seychelles,Australia,,,,,Active
 BITPOINT Latam,"Cryptoasset Exchange, Digital Custody","Retail Brokerage Services, Advanced Trading Services, Order-Book, Hosted Cryptoasset Wallet",2018,2019,Private,Panama,Panama,51-200,,,,Active
 BitPremier,Digital Payments,Top-ups & Refill (Cryptoasset),2013,2013,Private,United States,United States,,2017,,,Inactive
-Bitpreço,Cryptoasset Exchange,"P2P Cryptoasset Marketplaces, Single Dealer Platform / OTC Trading",2018,2018,Private,Brazil,Brazil,Nov-50,,,,Active
+BitpreÃ§o,Cryptoasset Exchange,"P2P Cryptoasset Marketplaces, Single Dealer Platform / OTC Trading",2018,2018,Private,Brazil,Brazil,Nov-50,,,,Active
 Bitqist,Cryptoasset Exchange,Retail Brokerage Services,,2018,Private,Netherlands,Netherlands,,2020,,,Inactive
 BitQuick,Cryptoasset Exchange,P2P Cryptoasset Marketplaces,2013,2013,Private,United States,United States,1,2016,,,Inactive
 Bitrated,Cryptoasset Exchange,"Retail Brokerage Services, Public Relations",2013,2014,Private,Israel,Israel,3,,,,Active
@@ -566,7 +566,7 @@ Bolden,Digital Lending,P2P / Marketplace Business Lending,2014,2015,Private,Fran
 Bolstr,Digital Capital Raising,Revenue / Profit Share Crowdfunding,2010,2013,Private,United States,United States,6,,,,Active
 Bolt,"Enterprise Tech Provisioning, Digital Identity, Digital Payments, RegTech","Financial Management & Business Intelligence, Fraud Prevention & Risk Management, API Hubs for Payments, Money Transfer (P2P / P2B / B2P / B2B), Risk Analytics",2013,2016,Private,United States,United States,201-500,,,,Active
 bolttech ,Enterprise Tech Provisioning,"Financial Management & Business Intelligence, API Management",2021,2020,Private,Singapore,Singapore,1001-5000,,,,Active
-Bom Pra Crédito,Digital Lending,P2P / Marketplace Consumer Lending,2013,2014,Private,Brazil,Brazil,76,,,,Active
+Bom Pra CrÃ©dito,Digital Lending,P2P / Marketplace Consumer Lending,2013,2014,Private,Brazil,Brazil,76,,,,Active
 Bomtrato,Digital Lending,Invoice Trading,,2019,Private,Brazil,Brazil,51-200,,,,Active
 Bon,Digital Lending,Balance Sheet Consumer Lending,2016,2018,Private,India,India,Nov-50,,,,Active
 Bonafide,Digital Identity,"KYC Solutions, Public Relations",2014,2014,Private,United States,United States,,2015,,,Inactive
@@ -947,7 +947,7 @@ Comunitae,Digital Lending,"P2P / Marketplace Consumer Lending, Debt-Based Securi
 Concirrus,"InsurTech, Enterprise Tech Provisioning","IoT (including Telematics), AI / ML / NLP, Cloud Computing",2011,2012,Private,United Kingdom,United Kingdom,51-200,,,,Active
 Concordium Foundation,Consensus Services,Firmware & Software Development,2018,2021,Private,Switzerland,Switzerland,Nov-50,,,,Active
 Concrete,Digital Capital Raising,"Equity-Based Crowdfunding, Real Estate Crowdfunding",2004,2004,Private,Italy,United Kingdom,76,,,,Active
-CONDA Crowdinvesting Österreich,Digital Capital Raising,Equity-Based Crowdfunding,2012,2013,Private,Austria,Austria,6,,,,Active
+CONDA Crowdinvesting Ã–sterreich,Digital Capital Raising,Equity-Based Crowdfunding,2012,2013,Private,Austria,Austria,6,,,,Active
 Conectabitcoin,Cryptoasset Exchange,P2P Cryptoasset Marketplaces,,2013,Private,Singapore,Argentina,,2014,,,Inactive
 Confirmo,"Digital Payments, Cryptoasset Exchange","Payment processor, Order-Book",2014,2014,Private,United Kingdom,United Kingdom,,,,,Active
 Conio,"Digital Custody, Digital Payments, Cryptoasset Exchange","Hosted Cryptoasset Wallet, Payment processor, Consumer Spending, Points of Access (Cryptoasset), Retail Brokerage Services",2015,2017,Private,United States,United States,Nov-50,,,,Active
@@ -1146,7 +1146,7 @@ DeRev,Digital Capital Raising,"Reward-Based Crowdfunding, Donation-Based Crowdfu
 Deribit,Cryptoasset Exchange,Order-Book,2019,2016,Private,Panama,Panama,17,,,,Active
 Descartes Underwriting,InsurTech,"Parametric-Based Insurance, IoT (including Telematics)",2018,2019,Private,France,France,201-500,,,,Active
 Deserve,Digital Payments,Money Transfer (P2P / P2B / B2P / B2B),2012,2013,Private,United States,United States,51-200,,,,Active
-Destácame,"Alternative Credit Analytics, WealthTech","Credit Scoring, Financial Comparison Sites",2014,2014,Private,Chile,Chile,65,,,,Active
+DestÃ¡came,"Alternative Credit Analytics, WealthTech","Credit Scoring, Financial Comparison Sites",2014,2014,Private,Chile,Chile,65,,,,Active
 Detente Technologies ,Enterprise Tech Provisioning,"Financial Management & Business Intelligence, Digital Accounting",2014,2016,Private,India,Qatar,10-Jan,,,,Active
 Detroit soup,Digital Capital Raising,Donation-Based Crowdfunding,2010,2010,Private,United States,United States,30,,,,Active
 DeversiFi,"Cryptoasset Exchange, Digital Capital Raising","Decentralised Exchange (DEX) Relayer, Single Dealer Platform / OTC Trading, Token Hosting Platform",2017,2018,Private,British Virgin Islands,United Kingdom,Nov-50,,,,Active
@@ -1244,7 +1244,7 @@ Easy Crypto,Cryptoasset Exchange,Retail Brokerage Services,2018,2018,Private,New
 Easy Home Finance,Digital Lending,Balance Sheet Property Lending,2018,2017,Private,India,India,201-500,,,,Active
 Easy2lend,Digital Lending,P2P / Marketplace Consumer Lending,2016,2016,Private,India,India,6,,,,Active
 EasyChange,Digital Payments,Acquiring Services Providers for Merchants,2016,2016,Private,Nigeria,Nigeria,10-Jan,,,,Active
-EASYCRÉDITO,Digital Lending,Balance Sheet Consumer Lending,2015,2015,Private,Brazil,Brazil,30,,,,Active
+EASYCRÃ‰DITO,Digital Lending,Balance Sheet Consumer Lending,2015,2015,Private,Brazil,Brazil,30,,,,Active
 EasyEcom,Enterprise Tech Provisioning,"Financial Management & Business Intelligence, Digital Accounting",2015,2015,Private,India,India,51-200,,,,Active
 easyinsurance,InsurTech,Comparison Portal,2017,2017,Private,Pakistan,Pakistan,10-Jan,,,,Active
 Easypaisa,Digital Banks,"Agent Banking (Cash-In / Cash-Out), Fully Digitally Native Bank (Retail), Fully Digitally Native Bank (MSME)",2009,2009,Private,Pakistan,Pakistan,,,,,Active
@@ -1263,7 +1263,7 @@ EcoCart,Digital Capital Raising,Reward-Based Crowdfunding,2019,2020,Private,Unit
 EcoCash,"Digital Payments, Digital Banks, InsurTech, Digital Lending, Digital Savings","Points of Access (PoS / mPoS / Online PoS), Fully Digitally Native Bank (Retail), Digital Brokers or Agents, Banking-as-a-Service (BaaS), Mobile Money, Customer Cash-Advance, Agent Banking (Cash-In / Cash-Out), P2P / Marketplace Consumer Lending, Digital Micro Saving Solutions, Money Transfer (P2P / P2B / B2P / B2B), Digital Remittances (Cross Border-P2P), Crowd-Led Microfinance, P2P Insurance, Digital Savings Collective / Pool, Digital Remittances (Domestic-P2P), Payment Gateways",2015,2015,Private,Mauritius,Zimbabwe,201-500,,,,Active
 Ecoligo,Digital Capital Raising,Equity-Based Crowdfunding,2014,2014,Private,Germany,Germany,6,,,,Active
 Ecomill,Digital Capital Raising,Equity-Based Crowdfunding,2013,2019,Private,Italy,Italy,10-Jan,,,,Active
-Econeers – a brand of OneCrowd Group,Digital Lending,P2P / Marketplace Business Lending,2012,2013,Private,Germany,Germany,30,,,,Active
+Econeers â€“ a brand of OneCrowd Group,Digital Lending,P2P / Marketplace Business Lending,2012,2013,Private,Germany,Germany,30,,,,Active
 EcoTree,Digital Capital Raising,Revenue / Profit Share Crowdfunding,2014,2016,Private,France,France,51-200,,,,Active
 ECrowd!,Digital Lending,P2P / Marketplace Business Lending,2013,2014,Private,Spain,Spain,6,,,,Active
 ECUREX,Cryptoasset Exchange,Order-Book,2014,2014,Private,Switzerland,Switzerland,,2017,,,Inactive
@@ -1382,7 +1382,7 @@ Extend,Enterprise Tech Provisioning,"API Management, Financial Management & Busi
 ExTravelMoney.com,Digital Payments,Digital Remittances (Cross Border-P2P),2014,2014,Private,India,India,Nov-50,,,,Active
 Ez Cred,Digital Lending,P2P / Marketplace Consumer Lending,2019,2017,Private,India,India,10-Jan,,,,Active
 Ezetap,"Digital Payments, Digital Lending","Points of Access (PoS / mPoS / Online PoS), API Hubs for Payments, Acquiring Services Providers for Merchants, Money Transfer (P2P / P2B / B2P / B2B), Customer Cash-Advance",2011,2011,Private,India,India,51-200,,,,Active
-E²BS,Consensus Services,"Pool Operation, Staking-as-a-Service",,2019,Private,Unidentified,Switzerland,,,,,Active
+EÂ²BS,Consensus Services,"Pool Operation, Staking-as-a-Service",,2019,Private,Unidentified,Switzerland,,,,,Active
 F2Pool,Consensus Services,Pool Operation,2013,2013,Private,China,China,Nov-50,,,,Active
 Fable,"Digital Payments, Enterprise Tech Provisioning","Digital Remittances (Cross Border-P2P), Digital Accounting",1999,2021,Private,India,India,201-500,,,,Active
 facebank.cn,Digital Lending,"P2P / Marketplace Business Lending, P2P / Marketplace Consumer Lending",2015,2015,Private,China,China,176,,,,Active
@@ -1632,7 +1632,7 @@ Future Link Technologies,"Enterprise Tech Provisioning, Digital Banks, Digital P
 Future Wave,Digital Payments,"Mobile Money, Acquiring Services Providers for Merchants",2013,2013,Private,India,India,2,2019,,,Inactive
 Futuready,InsurTech,"Digital Brokers or Agents, Comparison Portal",2015,2016,Private,Indonesia,Indonesia,51-200,,,,Active
 FXBTC,Cryptoasset Exchange,Order-Book,,2013,Private,Unidentified,China,,2014,,,Inactive
-FYB-­SG,Cryptoasset Exchange,Order-Book,2011,2013,Private,Singapore,Singapore,,2019,,,Inactive
+FYB-Â­SG,Cryptoasset Exchange,Order-Book,2011,2013,Private,Singapore,Singapore,,2019,,,Inactive
 Fyle,Enterprise Tech Provisioning,"AI / ML / NLP, API Management, Digital Accounting",2016,2017,Private,India,India,51-200,,,,Active
 Fyp ,"WealthTech, Digital Payments, Digital Banks","Personal Financial Management / Planning, Money Transfer (P2P / P2B / B2P / B2B), Agent Banking (Cash-In / Cash-Out)",2021,2021,Private,India,India,Nov-50,,,,Active
 G-Square Solutions,"RegTech, Enterprise Tech Provisioning","Risk Analytics, AI / ML / NLP, API Management, Financial Management & Business Intelligence",2014,2014,Private,India,India,7,,,,Active
@@ -1748,7 +1748,7 @@ Growth Street,Digital Lending,P2P / Marketplace Business Lending,2013,2014,Priva
 Growthdeck,Digital Capital Raising,Equity-Based Crowdfunding,2015,2016,Private,United Kingdom,United Kingdom,30,,,,Active
 GrowthPal,Enterprise Tech Provisioning,Financial Management & Business Intelligence,2019,2020,Private,India,India,Nov-50,,,,Active
 Groww,WealthTech,"Digital Wealth Management, Financial Comparison Sites, Personal Financial Management / Planning",2016,2016,Private,India,India,501-1000,,,,Active
-Grão,"WealthTech, Digital Savings, Digital Payments","Personal Financial Management / Planning, Digital Micro Saving Solutions, Top-ups & Refills, Money Transfer (P2P / P2B / B2P / B2B)",2018,2018,Private,Brazil,Brazil,Nov-50,,,,Active
+GrÃ£o,"WealthTech, Digital Savings, Digital Payments","Personal Financial Management / Planning, Digital Micro Saving Solutions, Top-ups & Refills, Money Transfer (P2P / P2B / B2P / B2B)",2018,2018,Private,Brazil,Brazil,Nov-50,,,,Active
 Guangxindai,Digital Lending,"P2P / Marketplace Business Lending, P2P / Marketplace Consumer Lending",2014,2015,Private,China,China,6,,,,Active
 Guanxi Invest,Digital Capital Raising,Equity-Based Crowdfunding,2017,2017,Private,Cameroon,Cameroon,6,,,,Active
 Guarda,Digital Custody,Unhosted Cryptoasset Wallet,2017,2017,Private,Estonia,Estonia,6,,,,Active
@@ -1986,7 +1986,7 @@ IPay.ua,Digital Payments,"Money Transfer (P2P / P2B / B2P / B2B), Mobile Money, 
 IppoPay,Digital Payments,"Payment Aggregators, Money Transfer (P2P / P2B / B2P / B2B), Payment Gateways",2020,2020,Private,India,India,51-200,,,,Active
 irongbei.com,Digital Lending,"P2P / Marketplace Business Lending, P2P / Marketplace Consumer Lending",2014,2014,Private,China,China,176,,,,Active
 ISBIT,"Cryptoasset Exchange, Digital Payments, Digital Custody, Enterprise Tech Provisioning","Order-Book, Points of Access (PoS / mPoS / Online PoS), Hosted Cryptoasset Wallet, Digital Accounting, Financial Management & Business Intelligence",2013,2014,Private,Mexico,Mexico,10-Jan,,,,Active
-ISF Crédito Orientado,Digital Lending,P2P / Marketplace Business Lending,2009,2009,Private,Brazil,Brazil,176,,,,Active
+ISF CrÃ©dito Orientado,Digital Lending,P2P / Marketplace Business Lending,2009,2009,Private,Brazil,Brazil,176,,,,Active
 iTAX,WealthTech,"Personal Financial Management / Planning, Financial Comparison Sites, Taxation",,2013,Private,Thailand,Thailand,10-Jan,,,,Active
 iTrustCapital,Cryptoasset Exchange,Order-Book,2018,2018,Private,United States,United States,51-200,,,,Active
 iuvo,Digital Lending,"P2P / Marketplace Business Lending, P2P / Marketplace Consumer Lending, P2P / Marketplace Property Lending",2016,2013,Private,Bulgaria,Estonia,30,,,,Active
@@ -2322,7 +2322,7 @@ Lydia ,"WealthTech, Digital Payments, Digital Savings, Digital Lending","Persona
 Lykke,"Cryptoasset Exchange, Digital Custody","Order-Book, Hosted Cryptoasset Wallet, Advanced Trading Services, Block Explorers, High-Frequency Trading (HFT) Services, Business consulting",2013,2016,Private,Switzerland,Switzerland,,,,,Active
 Lymo Finance,Digital Capital Raising,Real Estate Crowdfunding,2012,2012,Private,France,France,30,,,,Active
 Lyra.,Digital Payments,Payment Gateways,2014,2014,Private,Spain,Spain,Nov-50,,,,Active
-Lánzanos,Digital Capital Raising,Reward-Based Crowdfunding,2010,2010,Private,Spain,Spain,6,,,,Active
+LÃ¡nzanos,Digital Capital Raising,Reward-Based Crowdfunding,2010,2010,Private,Spain,Spain,6,,,,Active
 M-Changa,Digital Capital Raising,Donation-Based Crowdfunding,2012,2013,Private,Kenya,Kenya,6,,,,Active
 M-Eskudo,"Digital Payments, Digital Identity, Digital Banks","Mobile Money, Money Transfer (P2P / P2B / B2P / B2B), Points of Access (PoS / mPoS / Online PoS), Security & Biometrics, Banking-as-a-Service (BaaS)",,2012,Private,Portugal,Portugal,10-Jan,,,,Active
 M-KOPA,Digital Lending,Balance Sheet Consumer Lending,2011,2011,Private,United States,Kenya,1001-5000,,,,Active
@@ -2535,7 +2535,7 @@ MYPAY,Digital Payments,"Mobile Money, Money Transfer (P2P / P2B / B2P / B2B), To
 Mythical Games,Cryptoasset Exchange,P2P Cryptoasset Marketplaces,2018,2018,Private,United States,United States,201-500,,,,Active
 MyTM,"Digital Payments, WealthTech, Digital Lending","Money Transfer (P2P / P2B / B2P / B2B), Top-ups & Refills, Payment Gateways, Acquiring Services Providers for Merchants, API Hubs for Payments, Personal Financial Management / Planning, Balance Sheet Consumer Lending",2018,2018,Private,Pakistan,Pakistan,51-200,,,,Active
 MytripleA,Digital Lending,"P2P / Marketplace Business Lending, Invoice Trading",2013,2017,Private,Spain,Spain,6,,,,Active
-Máximo,Digital Payments,Points of Access (PoS / mPoS / Online PoS),2020,2020,Private,Peru,Peru,Nov-50,,,,Active
+MÃ¡ximo,Digital Payments,Points of Access (PoS / mPoS / Online PoS),2020,2020,Private,Peru,Peru,Nov-50,,,,Active
 N26,"Digital Banks, WealthTech, Digital Identity, Enterprise Tech Provisioning, InsurTech, Digital Payments","Fully Digitally Native Bank (Retail), Personal Financial Management / Planning, Security & Biometrics, AI / ML / NLP, On-Demand Insurance, Money Transfer (P2P / P2B / B2P / B2B), Digital Remittances (Cross Border-P2P)",2013,2015,Private,Germany,Germany,1001-5000,,,,Active
 Naapbooks,Digital Lending,"P2P / Marketplace Business Lending, P2P / Marketplace Consumer Lending, P2P / Marketplace Property Lending",2017,2017,Private,India,India,37,,,,Active
 Nagro,"Digital Banks, Alternative Credit Analytics, Digital Lending","Fully Digitally Native Bank (Retail), Alternative Credit Rating Agency, P2P / Marketplace Consumer Lending, Credit Scoring, P2P / Marketplace Property Lending",2015,2015,Private,Brazil,Brazil,Nov-50,,,,Active
@@ -2744,7 +2744,7 @@ Paper.id,"Enterprise Tech Provisioning, Digital Lending","Electronic Invoicing, 
 Paprika,Digital Payments,Money Transfer (P2P / P2B / B2P / B2B),2014,2015,Private,Indonesia,Indonesia,Nov-50,,,,Active
 Pariti,"WealthTech, Alternative Credit Analytics","Personal Financial Management / Planning, Credit Scoring",2014,2015,Private,United Kingdom,United Kingdom,10-Jan,2018,,,Inactive
 PasarPolis,InsurTech,Comparison Portal,2015,2013,Private,Indonesia,Indonesia,201-500,,,,Active
-Paskolų klubas,Digital Lending,"P2P / Marketplace Consumer Lending, Balance Sheet Consumer Lending",2015,2015,Private,Lithuania,Lithuania,,,,,Active
+PaskolÅ³ klubas,Digital Lending,"P2P / Marketplace Consumer Lending, Balance Sheet Consumer Lending",2015,2015,Private,Lithuania,Lithuania,,,,,Active
 Patasente,Digital Lending,Balance Sheet Business Lending,2015,2016,Private,Uganda,Uganda,6,,,,Active
 Patch of Land,"Digital Lending, Digital Capital Raising","P2P / Marketplace Property Lending, Real Estate Crowdfunding",2011,2013,Private,United States,United States,76,,,,Active
 Pave,Enterprise Tech Provisioning,Financial Management & Business Intelligence,2019,2020,Private,United States,United States,Nov-50,,,,Active
@@ -2957,7 +2957,7 @@ Prospa,Digital Lending,Balance Sheet Business Lending,2012,2012,Public,Australia
 Prosper Marketplace,Digital Lending,P2P / Marketplace Consumer Lending,2005,2006,Private,United States,United States,376,,,,Active
 Prove,"Digital Identity, Enterprise Tech Provisioning","Fraud Prevention & Risk Management, KYC Solutions, API Management",2008,2008,Private,United States,United States,201-500,,,,Active
 Proyecto-PYME,Digital Lending,"P2P / Marketplace Business Lending, Debt-Based Securities, Invoice Trading",2010,2010,Private,Mexico,Mexico,,,,,Active
-Prêtgo,Digital Lending,P2P / Marketplace Business Lending,2001,2014,Private,France,France,6,,,,Active
+PrÃªtgo,Digital Lending,P2P / Marketplace Business Lending,2001,2014,Private,France,France,6,,,,Active
 PT Pendanaan Teknologi Nusa,InsurTech,Comparison Portal,2016,2016,Private,Indonesia,Indonesia,,,,,Active
 PT. Danakini Indonesia,Digital Lending,"P2P / Marketplace Consumer Lending, P2P / Marketplace Business Lending",2017,2017,Public,Indonesia,Indonesia,51-200,,,,Active
 Public.com,"WealthTech, Cryptoasset Exchange","Personal Financial Management / Planning, Retail Brokerage Services, Education and Training",2015,2019,Private,United States,United States,51-200,,,,Active
@@ -3142,7 +3142,7 @@ RuralNet,"InsurTech, Enterprise Tech Provisioning","Technical Service Provider (
 RusBit,Cryptoasset Exchange,Bitcoin Teller Machines (BTM),,2017,Private,Russian Federation,Russian Federation,,,,,Active
 Ryanada,"Digital Lending, Enterprise Tech Provisioning","P2P / Marketplace Consumer Lending, Cloud Computing, AI / ML / NLP, Application development",2011,2011,Private,Kenya,Kenya,27,,,,Active
 Ryskex,InsurTech,"P2P Insurance, Parametric-Based Insurance, Digital Brokers or Agents, Claims & Risk Management Solutions, On-Demand Insurance",2018,2016,Private,Germany,Germany,10-Jan,,,,Active
-Röntgen,Digital Capital Raising,Real Estate Crowdfunding,2017,2017,Private,Lithuania,Lithuania,6,,,,Active
+RÃ¶ntgen,Digital Capital Raising,Real Estate Crowdfunding,2017,2017,Private,Lithuania,Lithuania,6,,,,Active
 SaBi,Cryptoasset Exchange,"Order-Book, Single Dealer Platform / OTC Trading, Advanced Trading Services",2019,2019,Private,Unidentified,Nigeria,10-Jan,,,,Active
 SabPaisa,"Digital Payments, Enterprise Tech Provisioning","API Hubs for Payments, Payment Aggregators, Bulk Payment Solutions, Acquiring Services Providers for Merchants, Payment Gateways, Points of Access (PoS / mPoS / Online PoS), Electronic Invoicing",2016,2016,Private,India,India,51-200,,,,Active
 SABR.io,RegTech,Blockchain Forensics,2015,2015,Private,United States,United States,,2016,,,Inactive
@@ -3208,7 +3208,7 @@ Sedicii,"Digital Identity, RegTech","Fraud Prevention & Risk Management, KYC Sol
 Seed&Spark,Digital Capital Raising,Reward-Based Crowdfunding,2013,2012,Private,United States,United States,30,,,,Active
 SeedInvest,Digital Capital Raising,Equity-Based Crowdfunding,2016,2016,Private,United States,United States,6,,,,Active
 Seedly,WealthTech,"Personal Financial Management / Planning, Financial Comparison Sites",2016,2016,Private,Singapore,Singapore,Nov-50,,,,Active
-Seedmatch – a brand of OneCrowd Group,Digital Capital Raising,Equity-Based Crowdfunding,2011,2014,Private,Germany,Germany,30,,,,Active
+Seedmatch â€“ a brand of OneCrowd Group,Digital Capital Raising,Equity-Based Crowdfunding,2011,2014,Private,Germany,Germany,30,,,,Active
 Seedout,Digital Capital Raising,Donation-Based Crowdfunding,,2013,Non profit,Pakistan,Pakistan,Nov-50,,,,Active
 Seedrs,Digital Capital Raising,Equity-Based Crowdfunding,2009,2012,Private,United Kingdom,United Kingdom,76,,,,Active
 Seeds Investor,Enterprise Tech Provisioning,"Financial Management & Business Intelligence, Education and Training",2019,2018,Private,United States,United States,10-Jan,,,,Active
@@ -3639,7 +3639,7 @@ TWINO,Digital Lending,P2P / Marketplace Consumer Lending,2009,2014,Private,Latvi
 Two Hundred,Digital Capital Raising,Equity-Based Crowdfunding,2014,2015,Private,Italy,Italy,30,,,,Active
 Tyke,Digital Capital Raising,Revenue / Profit Share Crowdfunding,2021,2021,Private,India,India,Nov-50,,,,Active
 UALET,WealthTech,"Robo-Advisors, Digital Wealth Management",2017,2017,Private,Colombia,Colombia,Nov-50,,,,Active
-Ualá,"WealthTech, Digital Lending, Digital Payments","Personal Financial Management / Planning, Balance Sheet Consumer Lending, Top-ups & Refills, Money Transfer (P2P / P2B / B2P / B2B)",,2017,Private,Argentina,Argentina,1001-5000,,,,Active
+UalÃ¡,"WealthTech, Digital Lending, Digital Payments","Personal Financial Management / Planning, Balance Sheet Consumer Lending, Top-ups & Refills, Money Transfer (P2P / P2B / B2P / B2B)",,2017,Private,Argentina,Argentina,1001-5000,,,,Active
 Uangku,Digital Payments,"Mobile Money, Top-ups & Refills",2014,2015,Private,Indonesia,Indonesia,,,,,Active
 UangTeman,Digital Lending,"P2P / Marketplace Consumer Lending, Balance Sheet Consumer Lending",2014,2014,Private,Indonesia,Indonesia,176,,,,Active
 UbaPesa,Digital Lending,P2P / Marketplace Consumer Lending,2017,2018,Private,Kenya,Kenya,10-Jan,,,,Active
@@ -3704,14 +3704,14 @@ Value3 Advisory,"Alternative Credit Analytics, WealthTech","Credit Scoring, Robo
 Valuefy ,WealthTech,Digital Wealth Management,,2011,Private,India,India,51-200,,,,Active
 Valyou,Digital Payments,"Digital Remittances (Cross Border-P2P), Top-ups & Refills",2016,2016,Private,Malaysia,Malaysia,201-500,,,,Active
 Valyu,Digital Savings,Savings-as-a-Service (SaaS),2020,2020,Private,India,India,Nov-50,,,,Active
-VALÚ,"Digital Lending, Digital Payments","Customer Cash-Advance, eMoney Issuers, Payment Gateways, Acquiring Services Providers for Merchants, Money Transfer (P2P / P2B / B2P / B2B)",,2019,Private,Slovenia,Slovenia,1001-5000,,,,Active
+VALÃš,"Digital Lending, Digital Payments","Customer Cash-Advance, eMoney Issuers, Payment Gateways, Acquiring Services Providers for Merchants, Money Transfer (P2P / P2B / B2P / B2B)",,2019,Private,Slovenia,Slovenia,1001-5000,,,,Active
 Vantek,"Enterprise Tech Provisioning, Cryptoasset Exchange, Digital Payments, WealthTech","Cloud Computing, Financial Management & Business Intelligence, Trading Bots, Payment Gateways, Digital Wealth Management",,2018,Private,Argentina,Argentina,Nov-50,,,,Active
 Varo,"Digital Banks, Digital Savings, Digital Lending, Digital Payments, WealthTech","Fully Digitally Native Bank (Retail), Digital Micro Saving Solutions, Customer Cash-Advance, Money Transfer (P2P / P2B / B2P / B2B), Personal Financial Management / Planning",2015,2016,Private,United States,United States,501-1000,,,,Active
 Vauld,"Digital Payments, Cryptoasset Exchange, Enterprise Tech Provisioning, Digital Lending","Consumer Spending, Retail Brokerage Services, Order-Book, API Management, P2P / Marketplace Consumer Lending, Interest-bearing account",2019,2019,Private,Singapore,Singapore,51-200,,,,Active
 Vault of Satoshi,Cryptoasset Exchange,Order-Book,2014,2013,Private,Canada,Canada,Nov-50,2015,,,Inactive
 Vaultoro,Cryptoasset Exchange,Order-Book,2014,2015,Private,United Kingdom,United Kingdom,,,,,Active
 Vayana,Digital Capital Raising,Capital Raising Institutional Brokerage,,2015,Private,India,India,51-200,,,,Active
-VayMượn,"Digital Lending, InsurTech","P2P / Marketplace Consumer Lending, On-Demand Insurance",2017,2017,Private,Vietnam,Vietnam,51-200,,,,Active
+VayMÆ°á»£n,"Digital Lending, InsurTech","P2P / Marketplace Consumer Lending, On-Demand Insurance",2017,2017,Private,Vietnam,Vietnam,51-200,,,,Active
 VCHello,Digital Capital Raising,Equity-Based Crowdfunding,2014,2014,Private,China,China,,,,,Active
 Veefin,"Digital Lending, Enterprise Tech Provisioning","Invoice Trading, Financial Management & Business Intelligence",2020,2016,Private,India,India,51-200,,,,Active
 Veem,Digital Payments,Money Transfer (P2P / P2B / B2P / B2B),2014,2015,Private,United States,United States,,,,,Active
