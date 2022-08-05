@@ -1,0 +1,186 @@
+id,name,year,period,value,unit
+0,Argentina,2015,Anual,28,Porcentaje anual
+1,Bahamas,2015,Anual,12,Porcentaje anual
+2,Bolivia (Estado Plurinacional de),2015,Anual,6,Porcentaje anual
+3,Brasil,2015,Anual,50,Porcentaje anual
+4,Chile,2015,Anual,9,Porcentaje anual
+5,Colombia,2015,Anual,12,Porcentaje anual
+6,Costa Rica,2015,Anual,16,Porcentaje anual
+7,Ecuador,2015,Anual,8,Porcentaje anual
+8,El Salvador,2015,Anual,6,Porcentaje anual
+9,Granada,2015,Anual,9,Porcentaje anual
+10,Guatemala,2015,Anual,13,Porcentaje anual
+11,Guyana,2015,Anual,11,Porcentaje anual
+12,Nicaragua,2015,Anual,12,Porcentaje anual
+13,PanamÃ¡,2015,Anual,7,Porcentaje anual
+14,PerÃº,2015,Anual,16,Porcentaje anual
+15,RepÃºblica Dominicana,2015,Anual,15,Porcentaje anual
+16,Suriname,2015,Anual,13,Porcentaje anual
+17,Trinidad y Tabago,2015,Anual,8,Porcentaje anual
+18,Uruguay,2015,Anual,17,Porcentaje anual
+19,Venezuela (RepÃºblica Bolivariana de),2015,Anual,20,Porcentaje anual
+20,Antigua y Barbuda,2015,Anual,9,Porcentaje anual
+21,Barbados,2015,Anual,7,Porcentaje anual
+22,Belice,2015,Anual,10,Porcentaje anual
+23,Dominica,2015,Anual,9,Porcentaje anual
+24,HaitÃ­,2015,Anual,19,Porcentaje anual
+25,Honduras,2015,Anual,21,Porcentaje anual
+26,MÃ©xico,2015,Anual,28,Porcentaje anual
+27,Paraguay,2015,Anual,14,Porcentaje anual
+28,Saint Kitts y Nevis,2015,Anual,9,Porcentaje anual
+29,San Vicente y las Granadinas,2015,Anual,9,Porcentaje anual
+30,Santa LucÃ­a,2015,Anual,9,Porcentaje anual
+31,Jamaica,2015,Anual,17,Porcentaje anual
+32,Argentina,2016,Anual,33,Porcentaje anual
+33,Bolivia (Estado Plurinacional de),2016,Anual,6,Porcentaje anual
+34,Brasil,2016,Anual,54,Porcentaje anual
+35,Chile,2016,Anual,10,Porcentaje anual
+36,Colombia,2016,Anual,15,Porcentaje anual
+37,Costa Rica,2016,Anual,15,Porcentaje anual
+38,Ecuador,2016,Anual,9,Porcentaje anual
+39,El Salvador,2016,Anual,6,Porcentaje anual
+40,Guatemala,2016,Anual,13,Porcentaje anual
+41,HaitÃ­,2016,Anual,20,Porcentaje anual
+42,Nicaragua,2016,Anual,11,Porcentaje anual
+43,PerÃº,2016,Anual,17,Porcentaje anual
+44,RepÃºblica Dominicana,2016,Anual,15,Porcentaje anual
+45,Trinidad y Tabago,2016,Anual,9,Porcentaje anual
+46,Uruguay,2016,Anual,18,Porcentaje anual
+47,Venezuela (RepÃºblica Bolivariana de),2016,Anual,21,Porcentaje anual
+48,Antigua y Barbuda,2016,Anual,9,Porcentaje anual
+49,Bahamas,2016,Anual,13,Porcentaje anual
+50,Barbados,2016,Anual,7,Porcentaje anual
+51,Belice,2016,Anual,10,Porcentaje anual
+52,Dominica,2016,Anual,8,Porcentaje anual
+53,Granada,2016,Anual,8,Porcentaje anual
+54,Guyana,2016,Anual,11,Porcentaje anual
+55,Honduras,2016,Anual,19,Porcentaje anual
+56,Jamaica,2016,Anual,17,Porcentaje anual
+57,MÃ©xico,2016,Anual,27,Porcentaje anual
+58,PanamÃ¡,2016,Anual,7,Porcentaje anual
+59,Paraguay,2016,Anual,16,Porcentaje anual
+60,Saint Kitts y Nevis,2016,Anual,9,Porcentaje anual
+61,San Vicente y las Granadinas,2016,Anual,9,Porcentaje anual
+62,Santa LucÃ­a,2016,Anual,8,Porcentaje anual
+63,Suriname,2016,Anual,14,Porcentaje anual
+64,Argentina,2017,Anual,27,Porcentaje anual
+65,Bolivia (Estado Plurinacional de),2017,Anual,6,Porcentaje anual
+66,Chile,2017,Anual,11,Porcentaje anual
+67,Colombia,2017,Anual,14,Porcentaje anual
+68,El Salvador,2017,Anual,7,Porcentaje anual
+69,Guatemala,2017,Anual,13,Porcentaje anual
+70,Nicaragua,2017,Anual,11,Porcentaje anual
+71,Trinidad y Tabago,2017,Anual,9,Porcentaje anual
+72,Antigua y Barbuda,2017,Anual,9,Porcentaje anual
+73,Bahamas,2017,Anual,12,Porcentaje anual
+74,Barbados,2017,Anual,7,Porcentaje anual
+75,Belice,2017,Anual,10,Porcentaje anual
+76,Brasil,2017,Anual,50,Porcentaje anual
+77,Costa Rica,2017,Anual,15,Porcentaje anual
+78,Dominica,2017,Anual,8,Porcentaje anual
+79,Ecuador,2017,Anual,8,Porcentaje anual
+80,Granada,2017,Anual,8,Porcentaje anual
+81,Guyana,2017,Anual,11,Porcentaje anual
+82,HaitÃ­,2017,Anual,18,Porcentaje anual
+83,Honduras,2017,Anual,19,Porcentaje anual
+84,Jamaica,2017,Anual,15,Porcentaje anual
+85,PanamÃ¡,2017,Anual,7,Porcentaje anual
+86,Paraguay,2017,Anual,14,Porcentaje anual
+87,PerÃº,2017,Anual,17,Porcentaje anual
+88,RepÃºblica Dominicana,2017,Anual,14,Porcentaje anual
+89,Saint Kitts y Nevis,2017,Anual,9,Porcentaje anual
+90,San Vicente y las Granadinas,2017,Anual,9,Porcentaje anual
+91,Santa LucÃ­a,2017,Anual,8,Porcentaje anual
+92,Suriname,2017,Anual,14,Porcentaje anual
+93,Uruguay,2017,Anual,15,Porcentaje anual
+94,Venezuela (RepÃºblica Bolivariana de),2017,Anual,22,Porcentaje anual
+95,MÃ©xico,2017,Anual,27,Porcentaje anual
+96,Bolivia (Estado Plurinacional de),2018,Anual,6,Porcentaje anual
+97,Chile,2018,Anual,11,Porcentaje anual
+98,Costa Rica,2018,Anual,16,Porcentaje anual
+99,Ecuador,2018,Anual,8,Porcentaje anual
+100,Guatemala,2018,Anual,13,Porcentaje anual
+101,PerÃº,2018,Anual,15,Porcentaje anual
+102,RepÃºblica Dominicana,2018,Anual,13,Porcentaje anual
+103,Trinidad y Tabago,2018,Anual,9,Porcentaje anual
+104,Venezuela (RepÃºblica Bolivariana de),2018,Anual,22,Porcentaje anual
+105,Antigua y Barbuda,2018,Anual,9,Porcentaje anual
+106,Argentina,2018,Anual,49,Porcentaje anual
+107,Bahamas,2018,Anual,12,Porcentaje anual
+108,Barbados,2018,Anual,7,Porcentaje anual
+109,Belice,2018,Anual,9,Porcentaje anual
+110,Brasil,2018,Anual,45,Porcentaje anual
+111,Colombia,2018,Anual,12,Porcentaje anual
+112,Dominica,2018,Anual,8,Porcentaje anual
+113,El Salvador,2018,Anual,7,Porcentaje anual
+114,Granada,2018,Anual,8,Porcentaje anual
+115,Guyana,2018,Anual,10,Porcentaje anual
+116,HaitÃ­,2018,Anual,18,Porcentaje anual
+117,Honduras,2018,Anual,18,Porcentaje anual
+118,Jamaica,2018,Anual,14,Porcentaje anual
+119,MÃ©xico,2018,Anual,28,Porcentaje anual
+120,Nicaragua,2018,Anual,11,Porcentaje anual
+121,PanamÃ¡,2018,Anual,7,Porcentaje anual
+122,Paraguay,2018,Anual,13,Porcentaje anual
+123,Saint Kitts y Nevis,2018,Anual,8,Porcentaje anual
+124,San Vicente y las Granadinas,2018,Anual,8,Porcentaje anual
+125,Santa LucÃ­a,2018,Anual,8,Porcentaje anual
+126,Suriname,2018,Anual,14,Porcentaje anual
+127,Uruguay,2018,Anual,14,Porcentaje anual
+128,Antigua y Barbuda,2019,Anual,9,Porcentaje anual
+129,Argentina,2019,Anual,67,Porcentaje anual
+130,Bahamas,2019,Anual,11,Porcentaje anual
+131,Barbados,2019,Anual,7,Porcentaje anual
+132,Belice,2019,Anual,9,Porcentaje anual
+133,Bolivia (Estado Plurinacional de),2019,Anual,6,Porcentaje anual
+134,Brasil,2019,Anual,43,Porcentaje anual
+135,Chile,2019,Anual,9,Porcentaje anual
+136,Colombia,2019,Anual,12,Porcentaje anual
+137,Costa Rica,2019,Anual,13,Porcentaje anual
+138,Dominica,2019,Anual,8,Porcentaje anual
+139,Ecuador,2019,Anual,9,Porcentaje anual
+140,El Salvador,2019,Anual,7,Porcentaje anual
+141,Granada,2019,Anual,7,Porcentaje anual
+142,Guatemala,2019,Anual,13,Porcentaje anual
+143,Guyana,2019,Anual,9,Porcentaje anual
+144,HaitÃ­,2019,Anual,19,Porcentaje anual
+145,Honduras,2019,Anual,17,Porcentaje anual
+146,Jamaica,2019,Anual,13,Porcentaje anual
+147,MÃ©xico,2019,Anual,30,Porcentaje anual
+148,Nicaragua,2019,Anual,13,Porcentaje anual
+149,PanamÃ¡,2019,Anual,7,Porcentaje anual
+150,Paraguay,2019,Anual,13,Porcentaje anual
+151,PerÃº,2019,Anual,14,Porcentaje anual
+152,RepÃºblica Dominicana,2019,Anual,12,Porcentaje anual
+153,Saint Kitts y Nevis,2019,Anual,8,Porcentaje anual
+154,San Vicente y las Granadinas,2019,Anual,8,Porcentaje anual
+155,Santa LucÃ­a,2019,Anual,8,Porcentaje anual
+156,Suriname,2019,Anual,15,Porcentaje anual
+157,Trinidad y Tabago,2019,Anual,9,Porcentaje anual
+158,Uruguay,2019,Anual,13,Porcentaje anual
+159,Venezuela (RepÃºblica Bolivariana de),2019,Anual,29,Porcentaje anual
+160,Argentina,2020,Anual,37,Porcentaje anual
+161,Bahamas,2020,Anual,10,Porcentaje anual
+162,Barbados,2020,Anual,6,Porcentaje anual
+163,Belice,2020,Anual,9,Porcentaje anual
+164,Bolivia (Estado Plurinacional de),2020,Anual,6,Porcentaje anual
+165,Brasil,2020,Anual,34,Porcentaje anual
+166,Chile,2020,Anual,8,Porcentaje anual
+167,Colombia,2020,Anual,10,Porcentaje anual
+168,Costa Rica,2020,Anual,11,Porcentaje anual
+169,Ecuador,2020,Anual,9,Porcentaje anual
+170,Guatemala,2020,Anual,13,Porcentaje anual
+171,Guyana,2020,Anual,9,Porcentaje anual
+172,HaitÃ­,2020,Anual,16,Porcentaje anual
+173,Honduras,2020,Anual,17,Porcentaje anual
+174,Jamaica,2020,Anual,12,Porcentaje anual
+175,MÃ©xico,2020,Anual,30,Porcentaje anual
+176,Nicaragua,2020,Anual,11,Porcentaje anual
+177,PanamÃ¡,2020,Anual,7,Porcentaje anual
+178,Paraguay,2020,Anual,11,Porcentaje anual
+179,PerÃº,2020,Anual,13,Porcentaje anual
+180,RepÃºblica Dominicana,2020,Anual,11,Porcentaje anual
+181,Suriname,2020,Anual,15,Porcentaje anual
+182,Trinidad y Tabago,2020,Anual,8,Porcentaje anual
+183,Uruguay,2020,Anual,13,Porcentaje anual
+184,Venezuela (RepÃºblica Bolivariana de),2020,Anual,33,Porcentaje anual

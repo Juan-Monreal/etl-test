@@ -1,0 +1,187 @@
+id,country_name,year,sex_identifier,geography,value,unit
+0,Bolivia (Estado Plurinacional de),2016,Ambos sexos,Nacional,10.6,Años de estudio
+1,Bolivia (Estado Plurinacional de),2016,Hombres,Nacional,10.6,Años de estudio
+2,Bolivia (Estado Plurinacional de),2016,Mujeres,Nacional,10.6,Años de estudio
+3,Bolivia (Estado Plurinacional de),2017,Ambos sexos,Nacional,10.7,Años de estudio
+4,Bolivia (Estado Plurinacional de),2017,Hombres,Nacional,10.7,Años de estudio
+5,Bolivia (Estado Plurinacional de),2017,Mujeres,Nacional,10.7,Años de estudio
+6,Bolivia (Estado Plurinacional de),2018,Ambos sexos,Nacional,10.8,Años de estudio
+7,Bolivia (Estado Plurinacional de),2018,Hombres,Nacional,10.7,Años de estudio
+8,Bolivia (Estado Plurinacional de),2018,Mujeres,Nacional,10.9,Años de estudio
+9,Bolivia (Estado Plurinacional de),2019,Ambos sexos,Nacional,10.8,Años de estudio
+10,Bolivia (Estado Plurinacional de),2019,Hombres,Nacional,10.8,Años de estudio
+11,Bolivia (Estado Plurinacional de),2019,Mujeres,Nacional,10.9,Años de estudio
+12,Bolivia (Estado Plurinacional de),2020,Ambos sexos,Nacional,11.0,Años de estudio
+13,Bolivia (Estado Plurinacional de),2020,Hombres,Nacional,10.9,Años de estudio
+14,Bolivia (Estado Plurinacional de),2020,Mujeres,Nacional,11.1,Años de estudio
+15,Brasil,2016,Ambos sexos,Nacional,10.4,Años de estudio
+16,Brasil,2016,Hombres,Nacional,10.0,Años de estudio
+17,Brasil,2016,Mujeres,Nacional,10.7,Años de estudio
+18,Brasil,2017,Ambos sexos,Nacional,10.5,Años de estudio
+19,Brasil,2017,Hombres,Nacional,10.2,Años de estudio
+20,Brasil,2017,Mujeres,Nacional,10.8,Años de estudio
+21,Brasil,2018,Ambos sexos,Nacional,10.6,Años de estudio
+22,Brasil,2018,Hombres,Nacional,10.3,Años de estudio
+23,Brasil,2018,Mujeres,Nacional,10.9,Años de estudio
+24,Brasil,2019,Ambos sexos,Nacional,10.7,Años de estudio
+25,Brasil,2019,Hombres,Nacional,10.4,Años de estudio
+26,Brasil,2019,Mujeres,Nacional,11.0,Años de estudio
+27,Brasil,2020,Ambos sexos,Nacional,10.9,Años de estudio
+28,Brasil,2020,Hombres,Nacional,10.6,Años de estudio
+29,Brasil,2020,Mujeres,Nacional,11.1,Años de estudio
+30,Chile,2017,Ambos sexos,Nacional,11.5,Años de estudio
+31,Chile,2017,Hombres,Nacional,11.3,Años de estudio
+32,Chile,2017,Mujeres,Nacional,11.6,Años de estudio
+33,Chile,2020,Ambos sexos,Nacional,11.6,Años de estudio
+34,Chile,2020,Hombres,Nacional,11.4,Años de estudio
+35,Chile,2020,Mujeres,Nacional,11.8,Años de estudio
+36,Colombia,2016,Ambos sexos,Nacional,9.9,Años de estudio
+37,Colombia,2016,Hombres,Nacional,9.5,Años de estudio
+38,Colombia,2016,Mujeres,Nacional,10.2,Años de estudio
+39,Colombia,2017,Ambos sexos,Nacional,9.9,Años de estudio
+40,Colombia,2017,Hombres,Nacional,9.6,Años de estudio
+41,Colombia,2017,Mujeres,Nacional,10.3,Años de estudio
+42,Colombia,2018,Ambos sexos,Nacional,10.0,Años de estudio
+43,Colombia,2018,Hombres,Nacional,9.7,Años de estudio
+44,Colombia,2018,Mujeres,Nacional,10.3,Años de estudio
+45,Colombia,2019,Ambos sexos,Nacional,10.0,Años de estudio
+46,Colombia,2019,Hombres,Nacional,9.7,Años de estudio
+47,Colombia,2019,Mujeres,Nacional,10.4,Años de estudio
+48,Colombia,2020,Ambos sexos,Nacional,10.0,Años de estudio
+49,Colombia,2020,Hombres,Nacional,9.7,Años de estudio
+50,Colombia,2020,Mujeres,Nacional,10.3,Años de estudio
+51,Costa Rica,2016,Ambos sexos,Nacional,9.4,Años de estudio
+52,Costa Rica,2016,Hombres,Nacional,9.2,Años de estudio
+53,Costa Rica,2016,Mujeres,Nacional,9.7,Años de estudio
+54,Costa Rica,2017,Ambos sexos,Nacional,9.4,Años de estudio
+55,Costa Rica,2017,Hombres,Nacional,9.2,Años de estudio
+56,Costa Rica,2017,Mujeres,Nacional,9.7,Años de estudio
+57,Costa Rica,2018,Ambos sexos,Nacional,9.6,Años de estudio
+58,Costa Rica,2018,Hombres,Nacional,9.4,Años de estudio
+59,Costa Rica,2018,Mujeres,Nacional,9.9,Años de estudio
+60,Costa Rica,2019,Ambos sexos,Nacional,9.7,Años de estudio
+61,Costa Rica,2019,Hombres,Nacional,9.5,Años de estudio
+62,Costa Rica,2019,Mujeres,Nacional,10.0,Años de estudio
+63,Costa Rica,2020,Ambos sexos,Nacional,9.9,Años de estudio
+64,Costa Rica,2020,Hombres,Nacional,9.6,Años de estudio
+65,Costa Rica,2020,Mujeres,Nacional,10.1,Años de estudio
+66,República Dominicana,2016,Ambos sexos,Nacional,10.2,Años de estudio
+67,República Dominicana,2016,Hombres,Nacional,9.7,Años de estudio
+68,República Dominicana,2016,Mujeres,Nacional,10.8,Años de estudio
+69,República Dominicana,2017,Ambos sexos,Nacional,10.2,Años de estudio
+70,República Dominicana,2017,Hombres,Nacional,9.7,Años de estudio
+71,República Dominicana,2017,Mujeres,Nacional,10.7,Años de estudio
+72,República Dominicana,2018,Ambos sexos,Nacional,10.3,Años de estudio
+73,República Dominicana,2018,Hombres,Nacional,9.7,Años de estudio
+74,República Dominicana,2018,Mujeres,Nacional,10.9,Años de estudio
+75,República Dominicana,2019,Ambos sexos,Nacional,10.4,Años de estudio
+76,República Dominicana,2019,Hombres,Nacional,9.9,Años de estudio
+77,República Dominicana,2019,Mujeres,Nacional,11.0,Años de estudio
+78,República Dominicana,2020,Ambos sexos,Nacional,10.5,Años de estudio
+79,República Dominicana,2020,Hombres,Nacional,10.0,Años de estudio
+80,República Dominicana,2020,Mujeres,Nacional,10.9,Años de estudio
+81,Ecuador,2016,Ambos sexos,Nacional,10.7,Años de estudio
+82,Ecuador,2016,Hombres,Nacional,10.6,Años de estudio
+83,Ecuador,2016,Mujeres,Nacional,10.8,Años de estudio
+84,Ecuador,2017,Ambos sexos,Nacional,10.8,Años de estudio
+85,Ecuador,2017,Hombres,Nacional,10.6,Años de estudio
+86,Ecuador,2017,Mujeres,Nacional,10.9,Años de estudio
+87,Ecuador,2018,Ambos sexos,Nacional,10.9,Años de estudio
+88,Ecuador,2018,Hombres,Nacional,10.8,Años de estudio
+89,Ecuador,2018,Mujeres,Nacional,11.0,Años de estudio
+90,Ecuador,2019,Ambos sexos,Nacional,10.9,Años de estudio
+91,Ecuador,2019,Hombres,Nacional,10.8,Años de estudio
+92,Ecuador,2019,Mujeres,Nacional,11.0,Años de estudio
+93,Ecuador,2020,Ambos sexos,Nacional,11.0,Años de estudio
+94,Ecuador,2020,Hombres,Nacional,10.9,Años de estudio
+95,Ecuador,2020,Mujeres,Nacional,11.2,Años de estudio
+96,Honduras,2016,Ambos sexos,Nacional,8.4,Años de estudio
+97,Honduras,2016,Hombres,Nacional,8.2,Años de estudio
+98,Honduras,2016,Mujeres,Nacional,8.6,Años de estudio
+99,Honduras,2018,Ambos sexos,Nacional,8.3,Años de estudio
+100,Honduras,2018,Hombres,Nacional,8.0,Años de estudio
+101,Honduras,2018,Mujeres,Nacional,8.7,Años de estudio
+102,Honduras,2019,Ambos sexos,Nacional,8.5,Años de estudio
+103,Honduras,2019,Hombres,Nacional,8.1,Años de estudio
+104,Honduras,2019,Mujeres,Nacional,8.8,Años de estudio
+105,México,2016,Ambos sexos,Nacional,10.3,Años de estudio
+106,México,2016,Hombres,Nacional,10.2,Años de estudio
+107,México,2016,Mujeres,Nacional,10.4,Años de estudio
+108,México,2018,Ambos sexos,Nacional,10.5,Años de estudio
+109,México,2018,Hombres,Nacional,10.3,Años de estudio
+110,México,2018,Mujeres,Nacional,10.6,Años de estudio
+111,México,2020,Ambos sexos,Nacional,10.7,Años de estudio
+112,México,2020,Hombres,Nacional,10.6,Años de estudio
+113,México,2020,Mujeres,Nacional,10.8,Años de estudio
+114,Panamá,2016,Ambos sexos,Nacional,10.4,Años de estudio
+115,Panamá,2016,Hombres,Nacional,10.2,Años de estudio
+116,Panamá,2016,Mujeres,Nacional,10.6,Años de estudio
+117,Panamá,2017,Ambos sexos,Nacional,10.5,Años de estudio
+118,Panamá,2017,Hombres,Nacional,10.2,Años de estudio
+119,Panamá,2017,Mujeres,Nacional,10.8,Años de estudio
+120,Panamá,2018,Ambos sexos,Nacional,10.6,Años de estudio
+121,Panamá,2018,Hombres,Nacional,10.3,Años de estudio
+122,Panamá,2018,Mujeres,Nacional,10.9,Años de estudio
+123,Panamá,2019,Ambos sexos,Nacional,10.6,Años de estudio
+124,Panamá,2019,Hombres,Nacional,10.3,Años de estudio
+125,Panamá,2019,Mujeres,Nacional,11.0,Años de estudio
+126,Perú,2016,Ambos sexos,Nacional,11.0,Años de estudio
+127,Perú,2016,Hombres,Nacional,10.9,Años de estudio
+128,Perú,2016,Mujeres,Nacional,11.2,Años de estudio
+129,Perú,2017,Ambos sexos,Nacional,11.2,Años de estudio
+130,Perú,2017,Hombres,Nacional,11.0,Años de estudio
+131,Perú,2017,Mujeres,Nacional,11.3,Años de estudio
+132,Perú,2018,Ambos sexos,Nacional,11.3,Años de estudio
+133,Perú,2018,Hombres,Nacional,11.1,Años de estudio
+134,Perú,2018,Mujeres,Nacional,11.4,Años de estudio
+135,Perú,2019,Ambos sexos,Nacional,11.3,Años de estudio
+136,Perú,2019,Hombres,Nacional,11.1,Años de estudio
+137,Perú,2019,Mujeres,Nacional,11.4,Años de estudio
+138,Perú,2020,Ambos sexos,Nacional,11.3,Años de estudio
+139,Perú,2020,Hombres,Nacional,11.1,Años de estudio
+140,Perú,2020,Mujeres,Nacional,11.5,Años de estudio
+141,Paraguay,2016,Ambos sexos,Nacional,10.1,Años de estudio
+142,Paraguay,2016,Hombres,Nacional,9.9,Años de estudio
+143,Paraguay,2016,Mujeres,Nacional,10.3,Años de estudio
+144,Paraguay,2017,Ambos sexos,Nacional,10.1,Años de estudio
+145,Paraguay,2017,Hombres,Nacional,9.9,Años de estudio
+146,Paraguay,2017,Mujeres,Nacional,10.3,Años de estudio
+147,Paraguay,2018,Ambos sexos,Nacional,10.1,Años de estudio
+148,Paraguay,2018,Hombres,Nacional,9.9,Años de estudio
+149,Paraguay,2018,Mujeres,Nacional,10.4,Años de estudio
+150,Paraguay,2019,Ambos sexos,Nacional,10.3,Años de estudio
+151,Paraguay,2019,Hombres,Nacional,10.1,Años de estudio
+152,Paraguay,2019,Mujeres,Nacional,10.6,Años de estudio
+153,Paraguay,2020,Ambos sexos,Nacional,10.4,Años de estudio
+154,Paraguay,2020,Hombres,Nacional,10.0,Años de estudio
+155,Paraguay,2020,Mujeres,Nacional,10.7,Años de estudio
+156,El Salvador,2016,Ambos sexos,Nacional,9.2,Años de estudio
+157,El Salvador,2016,Hombres,Nacional,9.0,Años de estudio
+158,El Salvador,2016,Mujeres,Nacional,9.3,Años de estudio
+159,El Salvador,2017,Ambos sexos,Nacional,9.3,Años de estudio
+160,El Salvador,2017,Hombres,Nacional,9.2,Años de estudio
+161,El Salvador,2017,Mujeres,Nacional,9.4,Años de estudio
+162,El Salvador,2018,Ambos sexos,Nacional,9.4,Años de estudio
+163,El Salvador,2018,Hombres,Nacional,9.3,Años de estudio
+164,El Salvador,2018,Mujeres,Nacional,9.6,Años de estudio
+165,El Salvador,2019,Ambos sexos,Nacional,9.5,Años de estudio
+166,El Salvador,2019,Hombres,Nacional,9.3,Años de estudio
+167,El Salvador,2019,Mujeres,Nacional,9.6,Años de estudio
+168,El Salvador,2020,Ambos sexos,Nacional,9.7,Años de estudio
+169,El Salvador,2020,Hombres,Nacional,9.6,Años de estudio
+170,El Salvador,2020,Mujeres,Nacional,9.9,Años de estudio
+171,Uruguay,2016,Ambos sexos,Nacional,9.6,Años de estudio
+172,Uruguay,2016,Hombres,Nacional,9.3,Años de estudio
+173,Uruguay,2016,Mujeres,Nacional,10.0,Años de estudio
+174,Uruguay,2017,Ambos sexos,Nacional,9.8,Años de estudio
+175,Uruguay,2017,Hombres,Nacional,9.4,Años de estudio
+176,Uruguay,2017,Mujeres,Nacional,10.1,Años de estudio
+177,Uruguay,2018,Ambos sexos,Nacional,9.8,Años de estudio
+178,Uruguay,2018,Hombres,Nacional,9.5,Años de estudio
+179,Uruguay,2018,Mujeres,Nacional,10.2,Años de estudio
+180,Uruguay,2019,Ambos sexos,Nacional,9.9,Años de estudio
+181,Uruguay,2019,Hombres,Nacional,9.6,Años de estudio
+182,Uruguay,2019,Mujeres,Nacional,10.3,Años de estudio
+183,Uruguay,2020,Ambos sexos,Nacional,9.6,Años de estudio
+184,Uruguay,2020,Hombres,Nacional,9.3,Años de estudio
+185,Uruguay,2020,Mujeres,Nacional,9.8,Años de estudio

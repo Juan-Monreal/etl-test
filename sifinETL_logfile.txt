@@ -1,13 +1,33 @@
-22:26:02-Aug-03-2022, ETL Job Started
-22:26:02-Aug-03-2022, Extract phase Started
-22:26:02-Aug-03-2022, Extract phase Ended
-22:26:02-Aug-03-2022, Transform phase Started
-22:26:02-Aug-03-2022, Transform phase Ended
-22:26:02-Aug-03-2022, Load phase Started
-22:26:46-Aug-03-2022, ETL Job Started
-22:26:46-Aug-03-2022, Extract phase Started
-22:26:46-Aug-03-2022, Extract phase Ended
-22:26:46-Aug-03-2022, Transform phase Started
-22:26:46-Aug-03-2022, Transform phase Ended
-22:26:46-Aug-03-2022, Load phase Started
-22:26:46-Aug-03-2022, Load phase Ended
+23:28:59-Aug-04-2022 ETL Job Started
+23:28:59-Aug-04-2022 Created target folder clean/
+23:28:59-Aug-04-2022 Extracting average_education_latam
+23:28:59-Aug-04-2022 Transformed average_education_latam
+23:28:59-Aug-04-2022 Loaded average_education_latam
+23:28:59-Aug-04-2022 Extracting commercial_bank_branches
+23:28:59-Aug-04-2022 Transformed commercial_bank_branches
+23:28:59-Aug-04-2022 Loaded commercial_bank_branches
+23:28:59-Aug-04-2022 Extracting fintech_companies_world
+23:28:59-Aug-04-2022 Transformed fintech_companies_world
+23:28:59-Aug-04-2022 Loaded fintech_companies_world
+23:28:59-Aug-04-2022 Extracting foreign_investment
+23:28:59-Aug-04-2022 Transformed foreign_investment
+23:28:59-Aug-04-2022 Loaded foreign_investment
+23:28:59-Aug-04-2022 Extracting gdp_latam
+23:28:59-Aug-04-2022 Transformed gdp_latam
+23:28:59-Aug-04-2022 Loaded gdp_latam
+23:28:59-Aug-04-2022 Extracting inflation_latam
+23:28:59-Aug-04-2022 Transformed inflation_latam
+23:28:59-Aug-04-2022 Loaded inflation_latam
+23:28:59-Aug-04-2022 Extracting interest_rate
+23:28:59-Aug-04-2022 Transformed interest_rate
+23:28:59-Aug-04-2022 Loaded interest_rate
+23:28:59-Aug-04-2022 Extracting internet_usage
+23:28:59-Aug-04-2022 Transformed internet_usage
+23:28:59-Aug-04-2022 Loaded internet_usage
+23:28:59-Aug-04-2022 Extracting monetary_mass
+23:28:59-Aug-04-2022 Transformed monetary_mass
+23:28:59-Aug-04-2022 Loaded monetary_mass
+23:28:59-Aug-04-2022 Extracting unemployment_level
+23:28:59-Aug-04-2022 Transformed unemployment_level
+23:28:59-Aug-04-2022 Loaded unemployment_level
+23:28:59-Aug-04-2022 ETL Job Ended

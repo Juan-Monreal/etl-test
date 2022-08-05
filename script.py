@@ -7,6 +7,7 @@ tmpfile = "sifinETL_temp.tmp"
 logfle = "sifinETL_logfile.txt"
 targetFolder = "clean/"
 dataFolder = "data/"
+CLEAN = "CLEAN"
 
 
 def createDir(path):
@@ -47,7 +48,7 @@ def log(message):
     now = datetime.now()  # get current timestamp
     timestamp = now.strftime(timestamp_format)
     with open("sifinETL_logfile.txt", "a") as f:
-        f.write(timestamp + ', ' + message + '\n')
+        f.write(timestamp + ' ' + message + '\n')
 
 
 def extract_from_csv(file_path):
@@ -56,7 +57,7 @@ def extract_from_csv(file_path):
     :param file_path: File containing the info to be extracted
     :return: Pandas dataframe with the extracted data
     """
-    dataframe = pd.read_csv(file_path)
+    dataframe = pd.read_csv(file_path, encoding='utf-8')
     return dataframe
 
 
@@ -65,26 +66,60 @@ def extract(data):
 
     :param data:
     """
-    pass
+    return extract_from_csv(data)
 
 
 def transform(data):
-    pass
+    """
+
+    :param data:
+    :return:
+    """
+    data.drop_duplicates(inplace=True) # drop the duplicate row
+    data.dropna(how='all', inplace=True) # Remove Rows with Blank / NaN Values in All Column of pandas DataFrame
+
+    return data
 
 
-def load(targetFile, data_to_load):
-    data_to_load.to_csv(targetFile)
+def load(name, data):
+    """
+
+    :param name:
+    :param data:
+    """
+    data.to_csv(targetFolder + name + '_' + CLEAN + '.csv', index_label='id')
 
 
-log("ETL Job Started")
-log("Extract phase Started")
-# extracted_data = extract() 
-log("Extract phase Ended")
+def main():
+    """
+    Main Function
+    Initialize the ETL Process
+    """
+    log("ETL Job Started")
+    # log("Extract phase Started")
+    files = getFiles(".csv", dataFolder)
+    if (not createDir(targetFolder)):
+        log(f'Created target folder {targetFolder}')
+    for file in files:
+        name = file.split('/')[1].removesuffix('.csv')
+        dataExtracted = extract(file)
+        log(f'Extracting {name}')
+        # print('name ', name)
+        dataTransformed = transform(dataExtracted)
+        log(f'Transformed {name}')
+        load(name, dataTransformed)
+        log(f'Loaded {name}')
 
-log("Transform phase Started")
+    # extracted_data = extract()
+    # log("Extract phase Ended")
+    #
+    # log("Transform phase Started")
+    #
+    # log("Transform phase Ended")
+    #
+    # log("Load phase Started")
+    # # load(targetfile,transformed_data)
+    log("ETL Job Ended")
 
-log("Transform phase Ended")
-
-log("Load phase Started")
-# load(targetfile,transformed_data)
-log("Load phase Ended")
+if __name__ == "__main__":
+    main()

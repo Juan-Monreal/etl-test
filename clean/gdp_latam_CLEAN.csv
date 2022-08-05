@@ -1,0 +1,162 @@
+id,name,year,value,unit
+0,Antigua y Barbuda,2017,1468,Millones de dólares
+1,Antigua y Barbuda,2018,1606,Millones de dólares
+2,Antigua y Barbuda,2019,1688,Millones de dólares
+3,Antigua y Barbuda,2020,1370,Millones de dólares
+4,Antigua y Barbuda,2021,1471,Millones de dólares
+5,Argentina,2017,643628,Millones de dólares
+6,Argentina,2018,524820,Millones de dólares
+7,Argentina,2019,452819,Millones de dólares
+8,Argentina,2020,389591,Millones de dólares
+9,Argentina,2021,491492,Millones de dólares
+10,Bahamas,2017,12360,Millones de dólares
+11,Bahamas,2018,12838,Millones de dólares
+12,Bahamas,2019,13164,Millones de dólares
+13,Bahamas,2020,9908,Millones de dólares
+14,Bahamas,2021,10355,Millones de dólares
+15,Barbados,2017,4982,Millones de dólares
+16,Barbados,2018,5097,Millones de dólares
+17,Barbados,2019,5304,Millones de dólares
+18,Barbados,2020,4690,Millones de dólares
+19,Barbados,2021,4894,Millones de dólares
+20,Belice,2017,1845,Millones de dólares
+21,Belice,2018,1887,Millones de dólares
+22,Belice,2019,1945,Millones de dólares
+23,Belice,2020,1586,Millones de dólares
+24,Belice,2021,1678,Millones de dólares
+25,Bolivia (Estado Plurinacional de),2017,37509,Millones de dólares
+26,Bolivia (Estado Plurinacional de),2018,40288,Millones de dólares
+27,Bolivia (Estado Plurinacional de),2019,40895,Millones de dólares
+28,Bolivia (Estado Plurinacional de),2020,36630,Millones de dólares
+29,Bolivia (Estado Plurinacional de),2021,40408,Millones de dólares
+30,Brasil,2017,2063515,Millones de dólares
+31,Brasil,2018,1916934,Millones de dólares
+32,Brasil,2019,1873288,Millones de dólares
+33,Brasil,2020,1448566,Millones de dólares
+34,Brasil,2021,1608981,Millones de dólares
+35,Chile,2017,276365,Millones de dólares
+36,Chile,2018,295403,Millones de dólares
+37,Chile,2019,278585,Millones de dólares
+38,Chile,2020,252727,Millones de dólares
+39,Chile,2021,317059,Millones de dólares
+40,Colombia,2017,311884,Millones de dólares
+41,Colombia,2018,334198,Millones de dólares
+42,Colombia,2019,323110,Millones de dólares
+43,Colombia,2020,270300,Millones de dólares
+44,Colombia,2021,314322,Millones de dólares
+45,Costa Rica,2019,64418,Millones de dólares
+46,Costa Rica,2020,62158,Millones de dólares
+47,Costa Rica,2021,64282,Millones de dólares
+48,Cuba,2021,187898,Millones de dólares
+49,Guyana,2017,4748,Millones de dólares
+50,Haití,2017,15237,Millones de dólares
+51,Haití,2018,15822,Millones de dólares
+52,Haití,2019,14007,Millones de dólares
+53,Honduras,2017,23136,Millones de dólares
+54,Honduras,2018,24068,Millones de dólares
+55,Honduras,2019,25090,Millones de dólares
+56,Honduras,2020,23828,Millones de dólares
+57,Honduras,2021,28489,Millones de dólares
+58,Jamaica,2017,14809,Millones de dólares
+59,Jamaica,2018,15731,Millones de dólares
+60,Jamaica,2019,15831,Millones de dólares
+61,Jamaica,2020,13812,Millones de dólares
+62,Jamaica,2021,14742,Millones de dólares
+63,México,2017,1158912,Millones de dólares
+64,México,2018,1222406,Millones de dólares
+65,México,2019,1269402,Millones de dólares
+66,México,2020,1087117,Millones de dólares
+67,México,2021,1293037,Millones de dólares
+68,Nicaragua,2017,13786,Millones de dólares
+69,Nicaragua,2018,13025,Millones de dólares
+70,Nicaragua,2019,12597,Millones de dólares
+71,Nicaragua,2020,12587,Millones de dólares
+72,Nicaragua,2021,14013,Millones de dólares
+73,Panamá,2017,62203,Millones de dólares
+74,Panamá,2018,64929,Millones de dólares
+75,Panamá,2019,66984,Millones de dólares
+76,Panamá,2020,53977,Millones de dólares
+77,Panamá,2021,63605,Millones de dólares
+78,Paraguay,2017,38997,Millones de dólares
+79,Paraguay,2018,40225,Millones de dólares
+80,Paraguay,2019,37925,Millones de dólares
+81,Paraguay,2020,35432,Millones de dólares
+82,Paraguay,2021,40458,Millones de dólares
+83,Perú,2017,211008,Millones de dólares
+84,Perú,2018,222597,Millones de dólares
+85,Perú,2019,228326,Millones de dólares
+86,Perú,2020,201703,Millones de dólares
+87,Perú,2021,214361,Millones de dólares
+88,República Dominicana,2017,79998,Millones de dólares
+89,República Dominicana,2018,85555,Millones de dólares
+90,República Dominicana,2019,88941,Millones de dólares
+91,República Dominicana,2020,78845,Millones de dólares
+92,República Dominicana,2021,94243,Millones de dólares
+93,Saint Kitts y Nevis,2017,1061,Millones de dólares
+94,Saint Kitts y Nevis,2018,1079,Millones de dólares
+95,Saint Kitts y Nevis,2019,1109,Millones de dólares
+96,Saint Kitts y Nevis,2020,885,Millones de dólares
+97,Saint Kitts y Nevis,2021,869,Millones de dólares
+98,San Vicente y las Granadinas,2017,848,Millones de dólares
+99,San Vicente y las Granadinas,2018,884,Millones de dólares
+100,San Vicente y las Granadinas,2019,910,Millones de dólares
+101,San Vicente y las Granadinas,2020,872,Millones de dólares
+102,San Vicente y las Granadinas,2021,890,Millones de dólares
+103,Santa Lucía,2017,1997,Millones de dólares
+104,Santa Lucía,2018,2065,Millones de dólares
+105,Santa Lucía,2019,2119,Millones de dólares
+106,Santa Lucía,2020,1617,Millones de dólares
+107,Santa Lucía,2021,1766,Millones de dólares
+108,Suriname,2019,4221,Millones de dólares
+109,Suriname,2020,4120,Millones de dólares
+110,Suriname,2021,3275,Millones de dólares
+111,Trinidad y Tabago,2019,23886,Millones de dólares
+112,Trinidad y Tabago,2020,21393,Millones de dólares
+113,Trinidad y Tabago,2021,22478,Millones de dólares
+114,Uruguay,2021,59318,Millones de dólares
+115,Suriname,2017,3592,Millones de dólares
+116,Suriname,2018,3996,Millones de dólares
+117,Trinidad y Tabago,2017,23180,Millones de dólares
+118,Trinidad y Tabago,2018,23821,Millones de dólares
+119,Uruguay,2017,64234,Millones de dólares
+120,Uruguay,2018,64515,Millones de dólares
+121,Uruguay,2019,61231,Millones de dólares
+122,Uruguay,2020,53561,Millones de dólares
+123,Venezuela (República Bolivariana de),2017,66728,Millones de dólares
+124,Ecuador,2017,104296,Millones de dólares
+125,Ecuador,2018,107562,Millones de dólares
+126,Ecuador,2019,108108,Millones de dólares
+127,Ecuador,2020,99291,Millones de dólares
+128,Ecuador,2021,106166,Millones de dólares
+129,El Salvador,2017,24979,Millones de dólares
+130,El Salvador,2018,26021,Millones de dólares
+131,El Salvador,2019,26881,Millones de dólares
+132,El Salvador,2020,24563,Millones de dólares
+133,El Salvador,2021,27928,Millones de dólares
+134,Granada,2017,1126,Millones de dólares
+135,Granada,2018,1167,Millones de dólares
+136,Granada,2019,1213,Millones de dólares
+137,Granada,2020,1043,Millones de dólares
+138,Granada,2021,1121,Millones de dólares
+139,Guatemala,2017,71654,Millones de dólares
+140,Guatemala,2018,73209,Millones de dólares
+141,Guatemala,2019,77020,Millones de dólares
+142,Guatemala,2020,77605,Millones de dólares
+143,Guatemala,2021,86832,Millones de dólares
+144,Guyana,2018,4788,Millones de dólares
+145,Guyana,2019,5174,Millones de dólares
+146,Guyana,2020,5471,Millones de dólares
+147,Guyana,2021,6817,Millones de dólares
+148,Haití,2020,15505,Millones de dólares
+149,Haití,2021,19536,Millones de dólares
+150,Costa Rica,2017,60516,Millones de dólares
+151,Costa Rica,2018,62420,Millones de dólares
+152,Cuba,2017,96851,Millones de dólares
+153,Cuba,2018,100050,Millones de dólares
+154,Cuba,2019,103428,Millones de dólares
+155,Cuba,2020,107352,Millones de dólares
+156,Dominica,2017,522,Millones de dólares
+157,Dominica,2018,555,Millones de dólares
+158,Dominica,2019,612,Millones de dólares
+159,Dominica,2020,504,Millones de dólares
+160,Dominica,2021,546,Millones de dólares
